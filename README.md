@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f766e&height=150&section=header&text=Robert%20V%20Hudson&fontSize=42&fontColor=ffffff&fontAlignY=50" alt="Robert V Hudson" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f766e&height=150&section=header&text=zhangqinzhong&fontSize=42&fontColor=ffffff&fontAlignY=50" alt="zhangqinzhong" />
 
 <p>
   <a href="https://zhangqinzhong.com"><img src="https://img.shields.io/badge/website-zhangqinzhong.com-0f766e?style=flat-square" alt="Website" /></a>
