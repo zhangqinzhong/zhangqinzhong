@@ -53,11 +53,9 @@
   <img src="https://skillicons.dev/icons?i=swift,ts,rust,go,python,react,nextjs,cloudflare,docker,postgres&perline=10" alt="Swift, TypeScript, Rust, Go, Python, React, Next.js, Cloudflare, Docker, PostgreSQL" />
 </p>
 
-## GitHub Snapshot
+## Find Me
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhangqinzhong&show_icons=true&hide_border=true&rank_icon=github&title_color=0f766e&icon_color=fb7185&text_color=334155&bg_color=00000000" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangqinzhong&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=00000000" alt="Top languages" />
-
-</div>
+<p>
+  <a href="https://github.com/zhangqinzhong?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <a href="https://github.com/zhangqinzhong?tab=stars"><img src="https://img.shields.io/badge/GitHub-Stars-f59e0b?style=flat-square&logo=github&logoColor=white" alt="GitHub stars" /></a>
+</p>
